@@ -1,0 +1,60 @@
+body {
+  
+}
+
+.info-box{
+    max-width: 1190px;
+    padding: 100px 50px;
+    margin: 0 auto
+}
+
+.portfolio-container{
+    background-color: #f7f8fc;
+}
+.portfolio-box{
+    padding: 100px 50px;
+    margin: 0 auto
+}
+
+.header-box{
+    max-width: 1190px;
+    margin: 20px auto 0;
+}
+
+.home-box,
+.header-box,
+.portfolio-box,
+.contatos-box {
+    max-width: 1190px;
+    margin: 0 auto;
+}
+
+.contatos-box{
+    padding: 80px 50px;
+}
+
+.portfolio-titulo,
+.contatos-titulo {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.portfolio-titulo{
+    color: #000;
+}
+
+a{
+    color: #000;
+}
+
+
+@media (max-width:1024px) {
+    .sobre-titulo {
+        text-align: center;
+    }
+
+    .info-box,
+    .portfolio-box {
+        max-width: 600px !important;
+    }
+}

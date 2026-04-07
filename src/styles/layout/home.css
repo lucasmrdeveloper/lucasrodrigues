@@ -1,0 +1,91 @@
+.home-container{
+    height: 100vh;
+}
+
+.home-container {
+    align-items: center;
+    background: url(/src/assets/home/capa.jpg) no-repeat top / cover;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.home-container::before {
+    background: rgba(0, 0, 0, 70%);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+
+.home-box {
+/*     display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between; */
+
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+}
+
+.home-profissao{
+    font-weight: 200;
+}
+
+.home-apresentacao {
+    align-self: center;
+}
+
+.home-nome {
+    background: linear-gradient(270deg, #dde6ff 0.95%, #6BBAFF 100%);
+    font-size: 2.5rem;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.home-img{
+    background-color: #fff;
+    border-radius: 100%;
+    border: 2px solid #ffffff;
+    height: 130px;
+    margin-bottom: 20px;
+    object-fit: contain;
+    width: 130px;
+    transform: scaleX(-1);
+}
+
+.home-texto {
+    line-height: 1.8;
+    margin-top: 20px;
+}
+
+
+.home-btn-link{
+    /* background-color: #5271FF; */
+    border-radius: 15px;
+    color:#fff;
+    cursor: pointer;
+    font-weight:bold;
+    padding: 15px 40px;
+    text-decoration:none;
+    text-transform:uppercase;
+
+    background-color: #f1f4fb08;
+    border-radius: 15px;
+    border: 1px solid #414141;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+.home-btn-link:hover{
+    background-color: #5271FF;
+    border: none;
+}

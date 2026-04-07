@@ -1,0 +1,47 @@
+.contatos-box{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contatos-redes{
+   display: flex;
+   gap: 20px;
+}
+
+.contato-rede{
+    align-items: center;
+    background-color: #f1f4fb;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    outline: 2px solid transparent;
+    width: 120px;
+}
+
+.contato-rede:hover{
+    outline-color: #5271FF;
+}
+
+.contato-rede-link{
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.contato-rede-img{
+    align-self: center;
+    color: #5271FF;
+    width: 35px;
+}
+
+.contato-rede-subtitulo{
+    font-size: 1rem;
+    font-weight: normal;
+}

@@ -1,0 +1,51 @@
+/* ----- Sobre e Habilidades ----- */
+.info-container{
+    background-color: #fff !important;
+}
+
+.sobre-titulo,
+.sobre-texto,
+.habilidades-titulo{
+    color: #000;
+}
+.info-box {
+    display: flex;
+    gap: 80px;
+    text-align: center;
+}
+
+.sobre {
+    text-align: left;
+    width: 48%;
+}
+
+.sobre-titulo {
+    text-align: left;
+}
+
+.sobre-img{
+    display:none;
+    margin:30px 0;
+    max-width:400px;
+    width:100%;
+}
+
+.sobre-conteudo {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    line-height: 2;
+    margin-top: 11px;
+}
+
+
+@media (max-width:1024px) {
+    .info-box {
+        flex-direction: column;
+    }
+
+    .sobre {
+        text-align: center;
+        width: 100%;
+    }
+}

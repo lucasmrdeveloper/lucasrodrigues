@@ -1,0 +1,68 @@
+.habilidades {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 48%;
+}
+
+.habilidades-titulo {
+    text-align: left;
+}
+
+.habilidades-icones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.habilidade-tecnologia {
+    background: #f1f4fb;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: 2px solid transparent;
+    padding: 20px;
+    width: 100px;
+}
+
+.habilidades-tecnologia:hover {
+    outline-color: #5271FF;
+    transition: all 1s;
+}
+
+.habilidades-icones svg {
+    fill: #5271FF;
+    height: 50px;
+}
+
+.habilidades-tecnologia .icone-photoshop {
+    fill: #0B1122;
+}
+
+.habilidades-info {
+    background: rgba(22, 30, 50, 0.9);
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+}
+
+.habilidades-btn-fechar {
+    cursor: pointer;
+    filter: invert();
+    height: 25px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.habilidades-texto {
+    line-height: 2;
+    margin-top: 20px;
+}
+
+.habilidades-fechar {
+    opacity: 0;
+    visibility: hidden;
+    transition: all .5s;
+}

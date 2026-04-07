@@ -1,0 +1,20 @@
+function Html(props) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      x="0px"
+      y="0px"
+      viewBox="0 0 108.36 122.88"
+      xmlSpace="preserve"
+      {...props}
+    >
+      <path
+        d="M0 0l9.86 110.59 44.25 12.29 44.37-12.3L108.36 0H0zm86.89 36.18h-51.9l1.24 13.89h49.43l-3.72 41.64-27.82 7.71-27.79-7.71-1.9-21.31h13.62l.97 10.83 15.11 4.07.03-.01 15.11-4.08 1.57-17.59H23.83L20.18 22.6h67.94l-1.23 13.58z"
+        fillRule="evenodd"
+        clipRule="evenodd"
+      />
+    </svg>
+  )
+}
+
+export default Html
