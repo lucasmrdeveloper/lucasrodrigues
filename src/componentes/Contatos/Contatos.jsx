@@ -6,8 +6,8 @@ import ContatoSocial from "./ContatoSocial"
 
 // Icon
 import Linkedin from "../../icons/Contatos/Linkedin"
+import Email from "../../icons/Contatos/Email"
 import Github from "../../icons/Contatos/Github"
-import Email from "./Email"
 
 
 function Contatos() {
