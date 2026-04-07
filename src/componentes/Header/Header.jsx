@@ -7,15 +7,16 @@ import Logo from "../../icons/Logo"
 // Hook
 import { useRef, useState } from "react"
 
+// Imgs
+import imgAbrir from "../../assets/home/menu-rwd/menu-rwd-abrir.svg"
+import imgFechar from "../../assets/home/menu-rwd/menu-rwd-fechar.svg"
+
 
 function Header() {
     const [menu, setMenu] = useState(false)
     const btnAbrir = useRef(null)
-
-    const imgAbrir = "../src/assets/home/menu-rwd/menu-rwd-abrir.svg"
-    const imgFechar = "../src/assets/home/menu-rwd/menu-rwd-fechar.svg"
  
-
+    
     function abrir() {
         if (menu === false) {
             setMenu(true)
