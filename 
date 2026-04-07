@@ -1,0 +1,17 @@
+[33mcommit 0a91add4c8f501102300b1928b34f12f37480251[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: lucasmrdeveloper <lucasrodrigues.mr@gmail.com>
+Date:   Tue Apr 7 15:18:38 2026 -0300
+
+    Style: Importação das imagens de abrir e fechar menu do responsivo
+
+[33mcommit 56a10ff1594194416d17bb32c3ea453821e8eed6[m
+Author: lucasmrdeveloper <lucasrodrigues.mr@gmail.com>
+Date:   Tue Apr 7 14:51:26 2026 -0300
+
+    Style: Importação das imagens
+
+[33mcommit 75a7b67e840536430e93d796fdd9d9812dce24e4[m
+Author: lucasmrdeveloper <lucasrodrigues.mr@gmail.com>
+Date:   Tue Apr 7 13:29:22 2026 -0300
+
+    Feat: Estrutura do projeto
