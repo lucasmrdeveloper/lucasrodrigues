@@ -19,10 +19,7 @@ function SobreTexto() {
                     </p>
 
                      <p className="sobre-texto">
-                        Atualmente, meu foco está no desenvolvimento de sistemas
-                        web mais completos, aprofundando meus conhecimentos em
-                        integrações com APIs e backend, utilizando tecnologias como
-                        React, JavaScript moderno, Node.js e MongoDB.
+                        Atualmente, meu foco está no desenvolvimento de sistemas web mais completos, aprofundando meus conhecimentos em React, Javascript moderno e integrações com APIs.
                     </p>
                 </div>
             </div>
