@@ -9,8 +9,8 @@ import Logo from "../../icons/Logo"
 import { useRef, useState } from "react"
 
 // Imgs
-import imgAbrir from "../../assets/home/menu-rwd/menu-rwd-abrir.svg"
-import imgFechar from "../../assets/home/menu-rwd/menu-rwd-fechar.svg"
+import imgAbrir from "../../assets/home/menu-rwd/abrir.svg"
+import imgFechar from "../../assets/home/menu-rwd/fechar.svg"
 
 
 function Header() {
