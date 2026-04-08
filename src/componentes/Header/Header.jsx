@@ -1,7 +1,8 @@
 // CSS
 import "../../styles/layout/header.css"
 
-// Componente
+// Componentes
+import Categoria from "./Categoria"
 import Logo from "../../icons/Logo"
 
 // Hook
@@ -46,18 +47,25 @@ function Header() {
 
                     <nav className={menu ? "header-menu-visivel" : "header-categorias-box"}>
                         <ul className="header-categorias">
-                            <li className="header-categoria">
-                                <a id="" className="header-categoria-link" href="#informacoes">Sobre</a>
-                            </li>
-                            <li className="header-categoria">
-                                <a id="" className="header-categoria-link" href="#informacoes">Habilidades</a>
-                            </li>
-                            <li className="header-categoria">
-                                <a id="" className="header-categoria-link" href="#portfolio">Projetos</a>
-                            </li>
-                            <li className="header-categoria">
-                                <a id="" className="header-categoria-link" href="#contatos">Contatos</a>
-                            </li>
+                            <Categoria 
+                                secao="Sobre"
+                                href="#informacoes"
+                            /> 
+
+                            <Categoria 
+                                secao="Habilidades"
+                                href="#informacoes"
+                            />                    
+
+                            <Categoria 
+                                secao="Projetos"
+                                href="#portfolio"
+                            />         
+                            
+                            <Categoria 
+                                secao="Contatos"
+                                href="#contatos"
+                            /> 
                         </ul>
                     </nav>
                 </div>
