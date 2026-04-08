@@ -86,12 +86,6 @@
 
 /* ----- Portfólio ----- */
 @media (max-width:1024px) {
-    /* ----- Header ----- */
-    .header-container{
-        /* position:relative; */
-        z-index:50;
-    }
-
     .header-categorias-box {
         left: 0;
         position: absolute;
@@ -100,6 +94,7 @@
         transform: translateX(-100%);
         transition: all 1s;
         width: 100%;
+        display: inline;
     }
 
     .header-menu-rwd-btn {
@@ -107,13 +102,7 @@
         display: inline;
         filter: invert();
         height: 50px;
-        right: 35px;
-        top: 34px;
         z-index: 100;
-    }
-
-    .header-categorias-box {
-        display: inline;
     }
 
     .header-categorias {
