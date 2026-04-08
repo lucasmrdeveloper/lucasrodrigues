@@ -17,7 +17,7 @@ function Portfolio() {
                     <h1 class="portfolio-titulo">Portfólio</h1>
 
                     <div class="portfolio-projetos">
-                          <PortfolioProjeto
+                        <PortfolioProjeto
                             titulo="JS Debug"
                             descricao="É uma aplicação para criar console.log personalizados de forma visual, facilitando a leitura e organização de logs durante o desenvolvimento em Javascript."
                             src={jsdebug}
