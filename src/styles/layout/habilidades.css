@@ -65,3 +65,18 @@
     visibility: hidden;
     transition: all .5s;
 }
+
+
+@media (max-width:1024px) {
+    .habilidades {
+        width: 100%;
+    }
+
+    .habilidades-titulo {
+        text-align: center;
+    }
+
+    .habilidades-icones {
+        justify-content: center;
+    }
+}

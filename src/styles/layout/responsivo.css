@@ -7,16 +7,4 @@
     .scroll-visivel {
         overflow: auto;
     }
-
-    .habilidades {
-        width: 100%;
-    }
-
-    .habilidades-titulo {
-        text-align: center;
-    }
-
-    .habilidades-icones {
-        justify-content: center;
-    }
 }
