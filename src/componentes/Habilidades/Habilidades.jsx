@@ -23,35 +23,35 @@ function Habilidades() {
 
                 <div className="habilidades-box">
                     <div className="habilidades-icones">
-                        <HabilidadeItem data="html">
+                        <HabilidadeItem>
                             <Html />
                         </HabilidadeItem>
                         
-                        <HabilidadeItem data="css">
+                        <HabilidadeItem >
                             <Css />
                         </HabilidadeItem>
 
-                        <HabilidadeItem data="js">
+                        <HabilidadeItem>
                             <Js />
                         </HabilidadeItem>
 
-                        <HabilidadeItem data="react">
+                        <HabilidadeItem>
                             <React />
                         </HabilidadeItem>
 
-                        <HabilidadeItem data="react">
+                        <HabilidadeItem>
                             <Tailwind />
                         </HabilidadeItem>
 
-                        <HabilidadeItem data="sass">
+                        <HabilidadeItem>
                             <Sass />
                         </HabilidadeItem>
-                    
-                        <HabilidadeItem data="git">
+                
+                        <HabilidadeItem>
                             <Git />
                         </HabilidadeItem>
 
-                        <HabilidadeItem data="wordpress">
+                        <HabilidadeItem>
                             <Wordpress />
                         </HabilidadeItem>
                     </div>

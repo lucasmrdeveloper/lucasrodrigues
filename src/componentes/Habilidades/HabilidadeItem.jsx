@@ -1,12 +1,7 @@
-function HabilidadeItem( {children, data} ) {
-    function clicado(e) {
-        console.log("e", e.currentTarget)
-        console.log("data", data)
-    }
-
+function HabilidadeItem( {children} ) {
     return(
         <>
-            <div className="habilidade-tecnologia" onClick={clicado} dataset={data}>{children}</div>
+            <div className="habilidade-tecnologia">{children}</div>
         </>
     )
 }
