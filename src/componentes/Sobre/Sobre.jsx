@@ -1,6 +1,7 @@
 // Componentes
 import SobreTexto from "./SobreTexto"
-import Habilidades from "./Habilidades"
+import Habilidades from "../Habilidades/Habilidades"
+
 
 function Sobre() {
     return (
