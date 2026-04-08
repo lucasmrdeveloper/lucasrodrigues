@@ -19,19 +19,4 @@
     .habilidades-icones {
         justify-content: center;
     }
-
-    
-    
-}
-
-/* ----- Contatos ----- */
-@media (max-width:500px) {
-    .contatos-redes{
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    
-    .contato-rede{
-        width: 100px;
-    }
 }
