@@ -53,16 +53,6 @@
         overflow: auto;
     }
 
-
-    /* ----- Home ----- */
-    .home-box {
-        gap: 0;
-    }
-
-    .home-apresentacao {
-        text-align: center;
-    }
-
     .habilidades {
         width: 100%;
     }
