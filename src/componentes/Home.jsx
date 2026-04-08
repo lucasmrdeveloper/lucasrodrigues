@@ -15,7 +15,7 @@ function Home() {
 
             <section className="conteudo-escondido home-container">
                 <div className="home-box">
-                    <img className="home-img" src={desenvolvedor} alt="" />
+                    <img className="home-img" src={desenvolvedor} alt="Desenvolvedor"/>
 
                     <h1 className="home-nome">Lucas Rodrigues</h1>
 

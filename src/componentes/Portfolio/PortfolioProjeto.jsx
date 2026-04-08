@@ -29,7 +29,7 @@ function PortfolioProjeto( {titulo, descricao, src, repositorio, projeto} ) {
     return(
         <>
             <div className="portfolio-projeto">
-                <img className="portfolio-img" src={src} alt="To-do"/>
+                <img className="portfolio-img" src={src} alt="Lista de tarefas"/>
             
                 <div className="portfolio-sobre">
                     <h1 className="portfolio-sobre-titulo">{titulo}</h1>
