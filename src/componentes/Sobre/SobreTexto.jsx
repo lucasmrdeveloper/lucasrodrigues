@@ -6,8 +6,6 @@ function SobreTexto() {
             <div id="sobre" className="sobre">
                 <h1 className="sobre-titulo">Sobre mim</h1>
 
-                <img className="sobre-img" src="imgs/home/home.png" alt="Sobre"/>
-
                 <div className="sobre-conteudo">
                     <p className="sobre-texto">
                         Sou desenvolvedor front-end focado na criação de sites, sistemas web e interfaces.
