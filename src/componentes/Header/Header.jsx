@@ -43,6 +43,10 @@ function Header() {
                         alt="Botão abrir e fechar menu mobile" 
                         ref={btnAbrir}
                         onClick={abrir}
+                        style={{
+                            position: menu ? "fixed" : "static",
+                            right: "50px"
+                        }}
                     />
 
                     <nav className={menu ? "header-menu-visivel" : "header-categorias-box"}>
