@@ -8,5 +8,12 @@ Este portfólio foi desenvolvido com o objetivo de:
 - Servir como canal de contato profissional
 
 
+## ⚙️ Tecnologias Utilizadas
+- React
+- Javascript
+- CSS
+- HTML
+
+
 ## 🌐 Acesse o projeto
-https://lucasmrodrigues.vercel.app/
+https://lucasmrodrigues.vercel.app
