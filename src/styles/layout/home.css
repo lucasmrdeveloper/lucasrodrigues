@@ -22,13 +22,6 @@
 }
 
 .home-box {
-/*     display: flex;
-    flex-direction: column;
-    gap: 20px;
-    height: 100%;
-    align-items: center;
-    justify-content: space-between; */
-
     height: 100%;
     align-items: center;
     display: flex;
@@ -56,7 +49,6 @@
     margin-bottom: 20px;
     object-fit: contain;
     width: 130px;
-    transform: scaleX(-1);
 }
 
 .home-texto {
