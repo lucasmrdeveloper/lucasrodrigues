@@ -9,4 +9,4 @@ Este portfólio foi desenvolvido com o objetivo de:
 
 
 ## 🌐 Acesse o projeto
-https://lucasmrodrigues.vercel.app/
+https://lucasmrodrigues.vercel.app
