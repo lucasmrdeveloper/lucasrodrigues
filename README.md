@@ -7,6 +7,7 @@ Este portfólio foi desenvolvido com o objetivo de:
 - Demonstrar minha capacidade de desenvolvimento front-end
 - Servir como canal de contato profissional
 
+<br>
 
 ## ⚙️ Tecnologias Utilizadas
 - React
@@ -14,6 +15,7 @@ Este portfólio foi desenvolvido com o objetivo de:
 - CSS
 - HTML
 
+<br>
 
 ## 🌐 Acesse o projeto
 https://lucasmrodrigues.vercel.app
