@@ -1,16 +1,12 @@
-# React + Vite
+## 💻 Portfólio - Lucas Rodrigues
+Sou desenvolvedor front-end focado na criação de sites, sistemas web e interfaces.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este portfólio foi desenvolvido com o objetivo de:
 
-Currently, two official plugins are available:
+- Apresentar meus projetos e habilidades
+- Demonstrar minha capacidade de desenvolvimento front-end
+- Servir como canal de contato profissional
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Acesse o projeto
+https://lucasmrodrigues.vercel.app/
