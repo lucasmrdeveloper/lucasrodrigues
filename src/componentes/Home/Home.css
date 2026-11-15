@@ -39,7 +39,6 @@
 }
 
 .home-btn{
-    /* background-color: #5271FF; */
     border-radius: 15px;
     color:#fff;
     cursor: pointer;
@@ -47,7 +46,6 @@
     padding: 15px 40px;
     text-decoration:none;
     text-transform:uppercase;
-
     background-color: #f1f4fb08;
     border-radius: 15px;
     border: 1px solid #414141;
