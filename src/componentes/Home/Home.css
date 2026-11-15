@@ -12,8 +12,14 @@
     justify-content: center;
 }
 
-.home-profissao{
-    font-weight: 200;
+.home-img{
+    background-color: #fff;
+    border-radius: 100%;
+    border: 2px solid #ffffff;
+    height: 130px;
+    margin-bottom: 20px;
+    object-fit: contain;
+    width: 130px;
 }
 
 .home-nome {
@@ -23,14 +29,8 @@
     -webkit-text-fill-color: transparent;
 }
 
-.home-img{
-    background-color: #fff;
-    border-radius: 100%;
-    border: 2px solid #ffffff;
-    height: 130px;
-    margin-bottom: 20px;
-    object-fit: contain;
-    width: 130px;
+.home-profissao{
+    font-weight: 200;
 }
 
 .home-btn-link{
