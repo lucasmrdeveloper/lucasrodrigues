@@ -1,11 +1,11 @@
 // CSS
-import "../styles/layout/home.css"
+import "./Home.css"
 
 // Componente
-import Header from "./Header/Header"
+import Header from "../Header/Header"
 
 // Img
-import desenvolvedor from "../assets/home/desenvolvedor.jpg"
+import desenvolvedor from "../../assets/home/desenvolvedor.jpg"
 
 
 function Home() {
@@ -17,7 +17,7 @@ function Home() {
                 <div className="home-box">
                     <img className="home-img" src={desenvolvedor} alt="Desenvolvedor"/>
 
-                    <h1 className="home-nome">Lucas Rodrigues</h1>
+                    <h1 className="home-nome">Lucas Rodrigues'12'12</h1>
 
                     <h3 className="home-profissao">Desenvolvedor Front-end</h3>
 

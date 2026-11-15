@@ -1,6 +1,6 @@
 // Componentes
-import Header from './componentes/Header/Header'
-import Home from './componentes/Home'
+
+import Home from './componentes/Home/Home'
 import Sobre from "./componentes/Sobre/Sobre"
 import Portfolio from './componentes/Portfolio/Portfolio'
 import Contatos from './componentes/Contatos/Contatos'
