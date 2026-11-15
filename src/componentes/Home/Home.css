@@ -3,22 +3,12 @@
 }
 
 .home-container {
+    background-color: #101110;
     align-items: center;
-    background: url(/src/assets/home/capa.jpg) no-repeat top / cover;
     color: #fff;
     display: flex;
     justify-content: center;
     height: 100vh;
-}
-
-.home-container::before {
-    background: rgba(0, 0, 0, 70%);
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    right: 0;
-    top: 0;
 }
 
 .home-box {
