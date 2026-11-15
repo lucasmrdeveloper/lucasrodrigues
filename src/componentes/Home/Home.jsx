@@ -21,7 +21,10 @@ function Home() {
 
                     <h3 className="home-profissao">Desenvolvedor Front-end</h3>
 
-                    <a className="home-btn-link" href="#contatos">Contato</a>
+                    <div className="home-btns">
+                        <a className="home-btn" href="#contatos">Ver projetos</a>
+                        <a className="home-btn" href="#contatos">Contato</a>
+                    </div>
                 </div>
             </section>
         </>
