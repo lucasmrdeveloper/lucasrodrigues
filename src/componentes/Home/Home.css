@@ -1,13 +1,6 @@
-.home-container{
-    height: 100vh;
-}
-
 .home-container {
     background-color: #101110;
-    align-items: center;
     color: #fff;
-    display: flex;
-    justify-content: center;
     height: 100vh;
 }
 
@@ -16,7 +9,6 @@
     align-items: center;
     display: flex;
     flex-direction: column;
-    position: relative;
     justify-content: center;
 }
 
@@ -40,12 +32,6 @@
     object-fit: contain;
     width: 130px;
 }
-
-.home-texto {
-    line-height: 1.8;
-    margin-top: 20px;
-}
-
 
 .home-btn-link{
     /* background-color: #5271FF; */
