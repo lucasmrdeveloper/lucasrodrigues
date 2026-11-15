@@ -1,5 +1,5 @@
 // Componentes
-
+import Header from './componentes/Header/Header'
 import Home from './componentes/Home/Home'
 import Sobre from "./componentes/Sobre/Sobre"
 import Portfolio from './componentes/Portfolio/Portfolio'
@@ -13,6 +13,7 @@ import "./styles/base/base.css"
 function App() {
   return (
     <>
+      <Header />
       <Home />
       <Sobre />
       <Portfolio />
