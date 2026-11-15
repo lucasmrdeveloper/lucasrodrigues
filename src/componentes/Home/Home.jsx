@@ -19,7 +19,7 @@ function Home() {
 
                     <h1 className="home-nome">Lucas Rodrigues</h1>
 
-                    <h3 className="home-profissao">Desenvolvedor Front-end</h3>
+                    <h3 className="home-profissao">Desenvolvedor Front-end | JavaScript | React | TypeScript</h3>
 
                     <div className="home-btns">
                         <a className="home-btn" href="#contatos">Ver projetos</a>
