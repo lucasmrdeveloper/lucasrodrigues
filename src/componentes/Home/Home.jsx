@@ -9,7 +9,7 @@ function Home() {
     return(
         <section className="home-container">
             <div className="home-box">
-                <img className="home-img" src={desenvolvedor} alt="Desenvolvedor"/>
+                <img className="home-img" src="/desenvolvedor.png" alt="Desenvolvedor"/>
 
                 <h1 className="home-nome">Lucas Rodrigues</h1>
 
