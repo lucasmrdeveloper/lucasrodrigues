@@ -13,7 +13,7 @@ function Home() {
         <>
             <Header />
 
-            <section className="conteudo-escondido home-container">
+            <section className="home-container">
                 <div className="home-box">
                     <img className="home-img" src={desenvolvedor} alt="Desenvolvedor"/>
 
