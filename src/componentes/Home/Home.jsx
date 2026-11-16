@@ -1,9 +1,4 @@
-// CSS
 import "./Home.css"
-
-// Img
-import desenvolvedor from "../../assets/home/desenvolvedor.jpg"
-
 
 function Home() {
     return(
